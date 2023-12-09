@@ -1,4 +1,4 @@
-# Hi there, I'm Purwanto - aka [Purwanto88](www.linkedin.com/in/purwanto88) 👋
+# Hi there, I'm Purwanto - aka [Purwanto](www.linkedin.com/in/purwanto88) 👋
 ## About me:
 - 🔭 I’m currently working on job seeker
 - 🌱 I’m currently learning Communication Science
