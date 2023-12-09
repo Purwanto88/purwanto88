@@ -1,7 +1,7 @@
 # Hi there, I'm Purwanto - aka [Purwanto88](www.linkedin.com/in/purwanto88) 👋
 ## About me:
 - 🔭 I’m currently working on job seeker
-- 🌱 I’m currently learning Ilmu Komunikasi
+- 🌱 I’m currently learning Communication Science
 - 👯 I’m looking to collaborate as Call Center
 - 🤔 I’m looking for suggest for Call Center
 - 💬 Ask me about anything
@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [Universitas Terbuka ](https://www.ut.ac.id/) | Bachelor of Communication science | Jakarta `2019-2023`
+#### 1. [Universitas Terbuka ](https://www.ut.ac.id/) | Bachelor of Communication Science | Jakarta `2019-2023`
    - Communication Skills
    - Public Speaking
    - Marketing
@@ -20,11 +20,11 @@
 #### 1. [PT. Midas Xchange](https://aeonmall-bsdcity.com/shopping_detail.php?id=8372) | Staff Teller | Tangerang Selatan `Aug'2018 - Jun'2023`
    - Executes foreign currency transactions for client
    - Establishes local exchange rates for retail customers based on market fluctuations, communicates rates to and directs other staff accordingly
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Perform administrative tasks such as filing, generating reports
+   - Provide support and information to customers, over the counter and by phone
+#### 2. [PT. Selalu Bahagia Bersama](https://www.oppo.com/id/) | Operations | Tangerang `2016-2017`
+   - Secure premies and personnel by patrolling property
+   - Monitoring surveillance equipment, and access points
 ---
 
 ### Languages and Tools:
@@ -42,19 +42,13 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/purwanto88#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/purwanto88#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/climbinsideyourmind#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/climbinsideyourmind#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/purwanto88/purwanto88
 
